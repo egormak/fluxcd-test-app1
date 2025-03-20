@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: grafana.best.com
+  - host: grafana.best1.com
     http:
       paths:
       - backend:
